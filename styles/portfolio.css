@@ -4,7 +4,7 @@
 }
 
 .text-primary {
-    color: #FD6E0A;
+    color:  #19b22b;
 }
 
 .btn-primary {
@@ -12,14 +12,14 @@
     border-radius: 5px;
     border: 0;
     padding: 18px 35px;
-    background: #FD6E0A;
+    background: #19b22b;
     color: #FFFFFF;
     font-weight: 700;
     font-size: 20px;
 }
 
 .header {
-    background: #FFF8F3;
+    background: #f3fff3;
     background-image: url('../images/header_bg.png'), url('../images/developer.png');
     background-repeat: no-repeat;
     background-position: bottom right, left;
@@ -85,7 +85,7 @@ section {
 
 /* about section styles */
 .about {
-    background: #FFF8F3;
+    background: #f3fff3;
     border-radius: 10px;
     padding: 130px 150px;
     text-align: center;
@@ -184,7 +184,7 @@ section {
 .contact{
     display: flex;
     gap: 100px;
-    background: #FFF8F3;
+    background: #f3fff3;
     padding: 130px 200px;
 }
 .contact .section-title{
